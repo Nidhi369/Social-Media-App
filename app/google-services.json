@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946710879880",
+    "project_id": "sharespaceapp-c1878",
+    "storage_bucket": "sharespaceapp-c1878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946710879880:android:b1b17769691aa428cdc93d",
+        "android_client_info": {
+          "package_name": "com.example.sharespaceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946710879880-kvgmmo8io84sbjdnmnc8n2e53sksn18q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl3CH11LitHTbgVaHBHCcId7RpogFbddc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946710879880-kvgmmo8io84sbjdnmnc8n2e53sksn18q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
